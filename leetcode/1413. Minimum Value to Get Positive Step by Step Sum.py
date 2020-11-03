@@ -1,4 +1,5 @@
 def minStartValue(nums):
+
     rez = 0
     rez_t = []
     for i in nums:
